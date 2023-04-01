@@ -1,7 +1,7 @@
 <p align = "center">
 zzz Hi 👋, PiX MusicaX HERE! zzz
 
-**![hououin-kyouma-okabe-rintarou](https://user-images.githubusercontent.com/129383302/229277576-4db7beac-0760-4037-b862-c12b86b1ec34.gif)
+<!-->**![hououin-kyouma-okabe-rintarou](https://user-images.githubusercontent.com/129383302/229277576-4db7beac-0760-4037-b862-c12b86b1ec34.gif)-->
 <img src="http://some_place.com/image.png](https://user-images.githubusercontent.com/129383302/229277576-4db7beac-0760-4037-b862-c12b86b1ec34.gif" />
   
 </p>
