@@ -1,7 +1,9 @@
 <p align = "center">
 zzz Hi 👋, PiX MusicaX HERE! zzz
 
-![hououin-kyouma-okabe-rintarou](https://user-images.githubusercontent.com/129383302/229277576-4db7beac-0760-4037-b862-c12b86b1ec34.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/129383302/229277576-4db7beac-0760-4037-b862-c12b86b1ec34.gif" />
+</p>
   
 </p>
 <!--
@@ -17,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pinakipps21@gmail.com
 - 😄 Pronouns: he/him
 **- ⚡ Fun fact: ...
+![hououin-kyouma-okabe-rintarou](https://user-images.githubusercontent.com/129383302/229277576-4db7beac-0760-4037-b862-c12b86b1ec34.gif)
 -->
