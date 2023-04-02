@@ -2,7 +2,7 @@
 zzz Hi 👋, PiX MusicaX HERE! zzz
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/129383302/229277576-4db7beac-0760-4037-b862-c12b86b1ec34.gif" />
+  <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/ult2.gif" />
 </p>
   
 </p>
