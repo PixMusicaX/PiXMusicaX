@@ -6,7 +6,7 @@ zzz Hi 👋, PiX MusicaX HERE! zzz
 </p>
 </p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Freelancing Projects and Music
 
