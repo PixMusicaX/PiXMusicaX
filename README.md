@@ -1,5 +1,5 @@
 <p align = "center">
-<H1> zzz Hi 👋, PiX MusicaX HERE! zzz
+  <H1> zzz Hi 👋, PiX MusicaX HERE! zzz </H1>
 
 <p align="center">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/ult2.gif" />
