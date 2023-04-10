@@ -5,9 +5,9 @@ zzz Hi 👋, PiX MusicaX HERE! zzz
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/ult2.gif" />
 </p>
 </p>
-
+<centre>
   [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&theme=juicyfresh&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
+</centre>
 - 🔭 I’m currently working on Freelancing Projects and Music
 
 - 🌱 I’m currently learning Blockchain and JS
