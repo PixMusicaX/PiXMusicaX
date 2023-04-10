@@ -26,3 +26,9 @@ comment syntax
 -->
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+![PixMusicaX's Stats](https://github-readme-stats.vercel.app/api?username=PixMusicaX&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+
+![PixMusicaX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PixMusicaX&theme=gruvbox&hide_border=true)
+
+![PixMusicaX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PixMusicaX&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
