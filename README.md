@@ -25,7 +25,11 @@
 comment syntax
 -->
 
+<H2> Trophies </H2>
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  <H2> GitHub Stats
 
 ![PixMusicaX's Stats](https://github-readme-stats.vercel.app/api?username=PixMusicaX&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
