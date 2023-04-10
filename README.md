@@ -36,3 +36,6 @@ comment syntax
 ![PixMusicaX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PixMusicaX&theme=gruvbox&hide_border=true)
 
 ![PixMusicaX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PixMusicaX&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
+<H3> Find me Here: </H3>
+  https://www.linkedin.com/in/pinaki-pritam-singha-6450a2214/
