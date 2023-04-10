@@ -25,11 +25,15 @@
 comment syntax
 -->
 
-<H3> Trophies </H3>
+<H3> Skills: </H3>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+
+<H3> Trophies: </H3>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
   
-  <H3> GitHub Stats </H3>
+  <H3> GitHub Stats: </H3>
 
 ![PixMusicaX's Stats](https://github-readme-stats.vercel.app/api?username=PixMusicaX&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
