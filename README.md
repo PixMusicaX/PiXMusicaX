@@ -1,9 +1,9 @@
 <p align = "center">
-  <H1> zzz Hi 👋, PiX MusicaX HERE! zzz </H1>
+  <H1><p align = "center"> zzz Hi 👋, PiX MusicaX HERE! zzz </p></H1>
 
-<p align="center">
+  <p align="center">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/ult2.gif" />
-</p>
+  </p>
 </p>
 
 
