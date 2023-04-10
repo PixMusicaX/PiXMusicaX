@@ -4,7 +4,9 @@ zzz Hi 👋, PiX MusicaX HERE! zzz
 <p align="center">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/ult2.gif" />
 </p>
-  
+<p align="center">  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 </p>
 
 - 🔭 I’m currently working on Freelancing Projects and Music
