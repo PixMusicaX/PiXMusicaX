@@ -1,5 +1,5 @@
 <p align = "center">
-  <H1><p align = "center"> zzz Hi 👋, PiX MusicaX HERE! zzz </p></H1>
+  <H1><p align = "center"> PiX: <p style = "font-family:georgia,garamond,serif"> If you're here, why not have a look around?" </p></p></H1>
 
   <p align="center">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/ult2.gif" />
