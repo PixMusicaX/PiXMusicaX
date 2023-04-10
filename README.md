@@ -5,7 +5,7 @@ zzz Hi 👋, PiX MusicaX HERE! zzz
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/ult2.gif" />
 </p>
 <p align="center">  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 </p>
 
