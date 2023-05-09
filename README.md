@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Qiskit
 
 <!--- 👯 I’m looking to collaborate on -->
-- 🤔 I’m looking for help with github itself (this place is kowai-scary)
+- 🤔 I’m looking for help with NodeJS
 
 - 💬 Ask me about "anything goes, feel free"
 
