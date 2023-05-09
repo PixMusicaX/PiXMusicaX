@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Freelancing Projects and Music
 
-- 🌱 I’m currently learning Blockchain and JS
+- 🌱 I’m currently learning Qiskit
 
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with github itself (this place is kowai-scary)
