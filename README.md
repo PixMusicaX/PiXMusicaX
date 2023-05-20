@@ -34,6 +34,9 @@ comment syntax
  <!--[![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&row=3&column=4&theme=juicyfresh)]([https://github.com/lucthienphong1120/github-trophies])-->
  
  ![](https://github-trophies.vercel.app/?username=PixMusicaX&theme=onedark&title=MultiLanguage,Commits,Stars,Repositories,Followers,NewUser&no-frame=true)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&theme=onedark&row=3&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 <H3> GitHub Stats: </H3>
 
