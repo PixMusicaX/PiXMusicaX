@@ -31,7 +31,7 @@ comment syntax
 
 <H3> Trophies: </H3>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&column=1)](https://github.com/ryo-ma/github-profile-trophy)
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&title=MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
   
