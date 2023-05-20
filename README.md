@@ -20,7 +20,7 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Did you know that the first YouTuve video was that of a zoo?
+- ⚡ Fun fact: Did you know that the first YouTube video was that of a zoo?
 <!--
 comment syntax
 -->
