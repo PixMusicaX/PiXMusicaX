@@ -35,7 +35,7 @@ comment syntax
   
 <H3> GitHub Stats: </H3>
 
-[![](https://visitcount.itsvg.in/api?id=pixmusicax&icon=5&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=PixMusicaX)
 
 ![PixMusicaX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PixMusicaX&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
