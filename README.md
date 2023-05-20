@@ -31,9 +31,7 @@ comment syntax
 
 <H3> Trophies: </H3>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&row=3&column=4&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&title=MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=PixMusicaX&row=3&column=4&theme=juicyfresh)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/lucthienphong1120/github-trophies))
   
 <H3> GitHub Stats: </H3>
 
