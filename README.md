@@ -48,5 +48,3 @@ comment syntax
 <H3> Find me Here: </H3>
 
 <a href="https://www.linkedin.com/in/pinaki-pritam-singha-6450a2214/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>   <a href="https://www.youtube.com/@pixmusicax" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="40" height="40"/> </a>   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pinakig5@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/> </a>
-
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
