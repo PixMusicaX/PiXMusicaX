@@ -1,11 +1,12 @@
 <p align = "center">
-  <H2><p align = "center"> PiX: "Exhausted but Cool." </p></H2>
+  <H2><p align = "center"> PiX: "..." </p></H2>
 
+<!---
   <p align="center">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/gif-2.gif" />
   </p>
 </p>
-
+ -->
 
 - 🔭 I’m currently working on Freelancing Projects and Music
 
