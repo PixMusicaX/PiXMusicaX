@@ -1,5 +1,5 @@
 <p align = "center">
-  <H2><p align = "center"> PiX: "..." </p></H2>
+  <H2><p align = "center"> PiX: "...between UPs and DOWNs." </p></H2>
 
 <!---
   <p align="center">
