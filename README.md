@@ -1,6 +1,5 @@
 <p align = "center">
-  <H2><p align = "center"> PiX: "...between UPs and DOWNs." </p></H2>
-
+  <H3><p align = "center"> PiX: "...between UPs and DOWNs." </p></H3>
   <p align="center">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/assets/129383302/f52153a4-d982-46e6-9601-f9edb9f30c8f" />
   </p>
