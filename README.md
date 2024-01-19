@@ -19,7 +19,7 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Did you know that the Eiffel Tower can be 15 cm taller during the summer?
+- ⚡ Fun fact: Did you know that the Eiffel Tower can be 15cm taller during the summer?
 <!--
 comment syntax
 -->
