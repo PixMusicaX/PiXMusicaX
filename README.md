@@ -6,12 +6,12 @@
 </p>
 
 
-- 🔭 I’m currently working on Freelancing Projects and Music
+- 🔭 I’m currently working on Data Science and Machine Learning
 
-- 🌱 I’m currently learning Qiskit
+- 🌱 I’m currently more Machine Learning
 
 <!--- 👯 I’m looking to collaborate on -->
-- 🤔 I’m looking for help with NodeJS
+- 🤔 I’m looking for help with Web Development
 
 - 💬 Ask me about "anything goes, feel free"
 
@@ -19,7 +19,7 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Did you know that the first YouTube video was that of a zoo?
+- ⚡ Fun fact: Did you know that the Eiffel Tower can be 15 cm taller during the summer?
 <!--
 comment syntax
 -->
