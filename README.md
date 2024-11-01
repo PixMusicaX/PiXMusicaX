@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Data Science and Machine Learning
 
-- 🌱 I’m currently more Machine Learning
+- 🌱 I’m currently into Machine Learning
 
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with Web Development
